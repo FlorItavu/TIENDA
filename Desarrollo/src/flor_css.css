@@ -1,0 +1,21 @@
+
+div.first {
+  background: rgba(160, 156, 156, 0.3);
+}
+.not_doc {
+  width: 96%;    
+  border-width: 0px;    
+  height: 50%;
+}
+.digitalizados_vinculos {
+  width: 100%;
+  display: block;
+  font-family: "Compacta";
+  font-size: 12pt;
+  color: #005BA0;
+  border: 1px transparent solid
+}
+
+.digitalizados_vinculos:hover {
+  color: red
+}
